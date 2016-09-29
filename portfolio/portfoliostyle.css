@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  color: #FFFFFF
+}
+
+body {
+  text-align: center;
+}
+
+body {
+    background-image:url('images/cat.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
