@@ -1,4 +1,5 @@
 body {
+  text-align: center;
   font-family: sans-serif;
   color: #FFFFFF
 }
@@ -14,10 +15,6 @@ body {
     background-attachment: fixed;
 }
 
-body {
-  margin-left: 10000px
-  margin-right: 10000px
-}
 
 a {
   font-family: inherit;
